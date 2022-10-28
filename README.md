@@ -6,4 +6,5 @@
                                                              
                                                              drag&drop
  rezult:
+ 
 ![image](https://user-images.githubusercontent.com/90507705/198730036-be121dc5-7143-4919-90ed-460ab399ea23.png)
